@@ -1,0 +1,12 @@
+Student 1:
+Name: brandon
+Score: 45
+
+Student 2:
+Name: hayden
+Score: 75
+
+Student 3:
+Name: dan
+Score: 97
+
